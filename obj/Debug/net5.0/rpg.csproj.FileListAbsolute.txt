@@ -1,0 +1,16 @@
+/home/rosangela/devwoman/rpg/obj/Debug/net5.0/rpg.csprojAssemblyReference.cache
+/home/rosangela/devwoman/rpg/obj/Debug/net5.0/rpg.GeneratedMSBuildEditorConfig.editorconfig
+/home/rosangela/devwoman/rpg/obj/Debug/net5.0/rpg.AssemblyInfoInputs.cache
+/home/rosangela/devwoman/rpg/obj/Debug/net5.0/rpg.AssemblyInfo.cs
+/home/rosangela/devwoman/rpg/obj/Debug/net5.0/rpg.csproj.CoreCompileInputs.cache
+/home/rosangela/devwoman/rpg/bin/Debug/net5.0/rpg
+/home/rosangela/devwoman/rpg/bin/Debug/net5.0/rpg.deps.json
+/home/rosangela/devwoman/rpg/bin/Debug/net5.0/rpg.runtimeconfig.json
+/home/rosangela/devwoman/rpg/bin/Debug/net5.0/rpg.runtimeconfig.dev.json
+/home/rosangela/devwoman/rpg/bin/Debug/net5.0/rpg.dll
+/home/rosangela/devwoman/rpg/bin/Debug/net5.0/ref/rpg.dll
+/home/rosangela/devwoman/rpg/bin/Debug/net5.0/rpg.pdb
+/home/rosangela/devwoman/rpg/obj/Debug/net5.0/rpg.dll
+/home/rosangela/devwoman/rpg/obj/Debug/net5.0/ref/rpg.dll
+/home/rosangela/devwoman/rpg/obj/Debug/net5.0/rpg.pdb
+/home/rosangela/devwoman/rpg/obj/Debug/net5.0/rpg.genruntimeconfig.cache
